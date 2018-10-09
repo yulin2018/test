@@ -1,2 +1,6 @@
 This is a test file.
+<<<<<<< HEAD
 edited 00:33.
+=======
+edited 00:35.
+>>>>>>> tmp
